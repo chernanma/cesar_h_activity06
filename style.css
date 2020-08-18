@@ -1,0 +1,30 @@
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+body {
+	background-color: beige;
+}
+#animal-image{
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+#funText {
+	color: black;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
+header {
+	text-align: center;
+}
