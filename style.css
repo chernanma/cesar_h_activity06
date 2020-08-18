@@ -5,18 +5,13 @@
 body {
 	background-color: beige;
 }
-#animal-image{
+#animal-image {
     margin-right: 20px;
     width: 200px;
-    height: 200px;
+	height: 200px;
+	float: left;
 }
 p, h1, h4 {
-	font-family: 'Roboto Slab', serif;
-}
-
-#funText {
-	color: black;
-	font-size: 24px;
 	font-family: 'Roboto Slab', serif;
 }
 
